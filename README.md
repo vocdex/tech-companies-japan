@@ -18,5 +18,17 @@
 | [KyotoRobotics](https://www.kyotorobotics.co.jp/en/) |Industrial robot company based on the world's highest-level 3D image processing technology.We are developing intelligent robot solutions that use 3D vision, which is our core technology. We also offer logistics and FA solutions|:thumbsdown:|[Hiring](https://www.kyotorobotics.co.jp/en/recruit)|
 | [MujinCorp](https://mujin-corp.com/) |Our teachless controller makes robots more intelligent and easy to use. The result? More prolific and capable robots.We’re starting in the warehouse, helping logistics operations address major long-term challenges finding and retaining labor. Because when robots take on dirty, tedious or dangerous tasks, available labor can be deployed more effectively.But we’re not stopping there. We believe in a future where endeavors of any size can reap the benefits of intelligent automation.|:thumbsdown:|[Hiring](https://mujin-corp.com/about/careers/)|
 
+## Contributing
+
+Pull requests are absolutely welcome.
+
+Please make sure the following condition are met to add your company to the list:
+
+- Based in Japan
+- Technology related
+- Allow internships
+
+Please add the company information to the following files
+- [README.md](https://github.com/vocdex/tech-companies-japan/blob/main/README.md) 
 
 
