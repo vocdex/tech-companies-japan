@@ -1,4 +1,5 @@
-Technology companies(robotics, AI) in Japan. Some have internship roles.
+## Technology companies(robotics, AI) in Japan(some with internships)
+
 ### With Internships:
 | Company | Description  | Internship |Intern Coding tasks|
 | :-: |:-: | :-: |:-:|
@@ -19,4 +20,3 @@ Technology companies(robotics, AI) in Japan. Some have internship roles.
 
 
 
-### English Friendly
